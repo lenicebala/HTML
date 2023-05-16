@@ -1,0 +1,63 @@
+html{
+    background-color: #FFDD6C;}
+body {
+    background-color: #EF197B;
+}
+
+main {
+    list-style: none;
+    background-color:#FDA2AB;
+    background-color:#EF197B;
+    ;
+    text-decoration: none;
+    padding: 25px;
+}
+.caixa nav ul li{
+    position: absolute;
+    top: 90px;
+    right: 150px;
+    display: inline;
+}
+h2{ font-family: 'Marhey', cursive;
+}
+ 
+.habilidades{
+    padding: 20px;
+}
+.objetivos{
+.divisao{
+    text-align:justify;
+    padding: 20px;
+
+    border: 2px solid black;
+    background-color: #FF80BA;
+    margin: 20px;
+}
+.momentos {
+    background-color: #FFDD6C;
+    text-align:justify;
+    margin: 10px;
+    font-style: italic;
+    border: 2px solid black;
+    padding: 20px
+}
+.elementoexterno{
+    padding: 20px;
+}
+.Titulo-centralizado{
+     text-align:center;
+}
+.linha {
+    
+    width: 800px ;
+    height: inherit; 
+}
+.mapa{
+    
+    width: 800px;
+    height: inherit;}
+
+
+    /* 
+    https://github.com/FranPastori/GEFormadoresProgramcao
+    */
